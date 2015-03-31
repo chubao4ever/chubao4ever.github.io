@@ -2,9 +2,10 @@
 layout: post
 title: "创建一个成功的个人博客"
 date: 2015-03-31 18:11:35
-categories: soft-skills
-tags:
-subtitle: "翻译文选自《Soft Skills》21章 “Creating a wildly successful blog”  作者：John Z.Sonmez"
+categories: tech
+tags: soft-skills
+subtitle: "翻译文选自《Soft Skills》21章 “Creating a wildly successful blog” 作者：John Z.Sonmez"
+author: "Lawrence Liu"
 ---
 
 作为一个软件工程师，其中最好一个能够推销你自己的工具就是博客。我一直坚信，每一个关心自己未来前途的软件工程师都应该投入精力做自己的博客。
