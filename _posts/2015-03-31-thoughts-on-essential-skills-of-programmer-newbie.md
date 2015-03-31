@@ -4,6 +4,7 @@ title: "Thoughts on essential skills of programmer newbie"
 date: 2015-03-31 22:41:57
 categories: tech
 tags: soft-skills
+author: "David Cheung"
 ---
 In 2015, our team comes a new programmer, which is also our company's first female Hong Kong software engineer. After I become a team lead, I need to do lots of hands-on training on her. Meanwhile, I came across Joost's article ["What most young programmers need to learn"](http://joostdevblog.blogspot.hk/2015/01/what-most-young-programmers-need-to.html) and aroused my sympathy.
 
