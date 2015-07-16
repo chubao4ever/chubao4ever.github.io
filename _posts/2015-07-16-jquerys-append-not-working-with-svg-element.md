@@ -36,7 +36,7 @@ Creating a DOM object
 
 
 ## example:
-![SVG]({{ site.url }}assets/svg.jpg)
+![SVG]({{ site.url }}assets/svg.png)
 ###html file
 
 ```
